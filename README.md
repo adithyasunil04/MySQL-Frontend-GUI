@@ -1,8 +1,8 @@
-# MySQL-Frontend-GUI for Linux
+# MySQL-Frontend-GUI for Windows
 A simple down-to-earth GUI frontend developed in Python3 for simple admin tasks on MySQL-Server running on the localhost. Developed for my CS School Project.
 
 # What's different
-This branch now has its GUI optimised for Linux systems using the fonts provided by MS.
+This branch is optimised for Windows systems.
 Other than that, there's hardly any difference.
 
 # System Requirements:
@@ -25,3 +25,5 @@ These libraries are available in the project's (.venv) virtual environment.
 3. Execute the python file MySQL-Frontend_v2.0XX.py on your Python shell.
 4. Pls do not move around any .png or .ui file into other directories otherwise the python script may not run well.
 5. You are done.
+
+6. Or Just execute the MySQL Frontend Executable using the shortcut file.
