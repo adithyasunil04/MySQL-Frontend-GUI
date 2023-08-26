@@ -13,6 +13,7 @@ This program should run on your Windows computer with Python3, MySQL Server, and
     1. pyqt5
     2. pyqt5-tools
     3. mysql-connector
+       \
 These libraries are available in the project's (.venv) virtual environment.
 
 2. MySQL/MariaDB-Server from v5.1 and above, active and running.
