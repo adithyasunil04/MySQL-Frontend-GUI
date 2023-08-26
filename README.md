@@ -23,7 +23,7 @@ These libraries are available in the project's (.venv) virtual environment.
 1. Download the entire repo contents as a .zip and extract it in a folder on your computer.
 2. Enable the venv by running the appropriate shell script fount in `./.venv/bin/<activate_shell_script>`
 3. Execute the python file MySQL-Frontend_v2.0XX.py on your Python shell.
-4. Pls do not move around any .png or .ui file into other directories otherwise the python script may not run well.
-5. You are done.
 
-6. Or just execute the MySQL Frontend Executable using the soft link file in the repo.
+4. You are done.
+
+5. Or just execute the MySQL Frontend Executable using the soft link file in the repo.
