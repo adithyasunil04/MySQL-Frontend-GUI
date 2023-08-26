@@ -6,7 +6,7 @@ This branch now has its GUI optimised for Linux systems using the fonts provided
 Other than that, there's hardly any difference.
 
 # System Requirements:
-This program should run on your Windows computer with Python3, MySQL Server, and the below-mentioned Python Libraries installed in the virtual environment.
+This program should run on your Linux computer with Python3, MySQL Server, and the below-mentioned Python Libraries installed in the virtual environment.
 
 # Installation Pre-requisites
 1. The Following Python Libraries are required to execute the program:
@@ -25,3 +25,5 @@ These libraries are available in the project's (.venv) virtual environment.
 3. Execute the python file MySQL-Frontend_v2.0XX.py on your Python shell.
 4. Pls do not move around any .png or .ui file into other directories otherwise the python script may not run well.
 5. You are done.
+
+6. Or just execute the MySQL Frontend Executable using the soft link file in the repo.
